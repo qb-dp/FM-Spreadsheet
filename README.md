@@ -7,8 +7,8 @@ FileMakerをJSで拡張して、WEBビューアでExcel互換のスプレッド�
 
 
 #### Spreadsheet表示用 本体
-Spreadsheet.fmp12
+- Spreadsheet.fmp12
 
 #### サンプルファイル
-personal_infomation.fmp12
-住所.fmp12
+- personal_infomation.fmp12
+- 住所.fmp12
